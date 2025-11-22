@@ -51,3 +51,5 @@ sqflite: ^2.2.8
 path: ^1.8.4
 cupertino_icons: ^1.0.8
 
+Author
+Ijas Ahhammed
