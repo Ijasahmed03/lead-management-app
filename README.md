@@ -51,5 +51,25 @@ sqflite: ^2.2.8
 path: ^1.8.4
 cupertino_icons: ^1.0.8
 
+▶️ How to Run
+1. Clone the repository
+   git clone https://github.com/<your-username>/leadapp.git
+cd leadapp
+2.Install Dependencies
+ flutter pub get
+3.Run the app
+ flutter run
+4.Build APK
+flutter build apk --debug
+APK output location:build/app/outputs/flutter-apk/app-debug.apk
+
+What This Project Demonstrates:
+ Clean and organized architecture
+ State management using Riverpod
+ Offline-first local storage
+ Modern UI with Material 3
+ Clear understanding of CRUD apps
+ Ability to follow real-world requirements
+ 
 Author
-Ijas Ahhammed
+Ijas Ahhammed T
