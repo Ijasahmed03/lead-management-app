@@ -27,7 +27,9 @@ class _AddLeadScreenState extends ConsumerState<AddLeadScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const Text('Add Lead')),
+      appBar: AppBar(title: const Text('Add Lead'),
+      backgroundColor: Colors.blueAccent,
+      ),
       body: Padding(
         padding: const EdgeInsets.all(16.0),
         child: Form(
